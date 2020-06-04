@@ -19,17 +19,19 @@
   <h3 align="center">Ecoleta</h3>
 
   <p align="center">
-    Recicle!
+    Seu marketplace de coleta de resíduos
     <br />
     <a href="https://github.com/gerjunior/e-coleta/issues">Reporte um Bug</a>
     ·
     <a href="https://github.com/gerjunior/e-coleta/issues">Solicite uma Feature</a>
   </p>
+
 </p>
 
 
 
 <!-- TABLE OF CONTENTS -->
+
 ## Índice
 
 * [Sobre o Projeto](#sobre-o-projeto)
@@ -119,13 +121,17 @@ será **imensamente apreciada**.
 ## Acknowledgements
 * [Docker](https://www.docker.com/)
 * [Express](https://expressjs.com/pt-br/)
-* [EsLint](https://eslint.org/)
+* [Linting](https://stackoverflow.com/questions/8503559/what-is-linting) | [EsLint](https://eslint.org/) 
+* [ORM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwibhdrHzOjpAhXLHLkGHYZ5BbUQwqsBMA16BAgKEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsnOXxJa31GI&usg=AOvVaw0lVRdltJqZhaPZEnZ2dSET)
 * [Knex](http://knexjs.org/)
 * [Yarn](https://yarnpkg.com/)
-
+* [Styled Components](https://styled-components.com/)
+* [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+* [SPAs](https://www.devmedia.com.br/ja-ouviu-falar-em-single-page-applications/39009)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/gerjunior/e-coleta.svg?style=flat-square
 [contributors-url]: https://github.com/gerjunior/e-coleta/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/gerjunior/e-coleta.svg?style=flat-square
